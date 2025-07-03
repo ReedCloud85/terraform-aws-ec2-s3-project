@@ -1,6 +1,0 @@
-# Ignore Terraform state and crash files
-.terraform/
-*.tfstate
-*.tfstate.backup
-*.tfvars
-crash.log
